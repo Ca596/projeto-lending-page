@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#air{
+    background-color: #303030;
+    background-size: cover;
+    padding: 130px;
+    
+}
+
+#sda{
+    margin-left: 80px;
+    font-size: 50px;
+    color: aliceblue;
+   
+   
+}
+#aaa{
+    margin-left: 160px;
+    color: aliceblue;
+    font-size: 30px;
+}
+#bannes{
+    background-color: #F9F9F9;
+    padding-bottom: 130px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 55px;
+    
+}
+#imagem{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#jj{
+    width: 510px;
+    height: 605px;
+    left: 976px;
+    padding-top: 40px;
+    padding-bottom: 35px;
+    border-radius: 30px;
+}
+
+#texto{
+    margin-top: 70px;
+    margin-left: 200px;
+}
+#formulario{
+    background-color: #303030;
+    background-color: #303030;color: #ffffff;
+    padding-bottom: 250px;
+    text-align: center;
+}
+#titulo-form{
+    font-size: 25px;
+    margin: 50px;
+}
+input{
+    width: 300px;
+    height: 40px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: #ffffff;
+    padding-left: 15px;
+}
+
+button{
+    background-color:  #C07212;
+    width: 200px;
+    height: 40px;
+    color: #ffffff;
+    border-radius: 10px;
+    border: 0px;
+    font-weight: bolder;
+    cursor: pointer;
+}
