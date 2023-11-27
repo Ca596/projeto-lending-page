@@ -2,21 +2,21 @@
     margin: 0px;
     font-family: 'Times New Roman', Times, serif;
 }
-#air{
+#topo{
     background-color: #303030;
     background-size: cover;
     padding: 130px;
     
 }
 
-#sda{
+#titulo-top{
     margin-left: 80px;
     font-size: 50px;
     color: aliceblue;
    
    
 }
-#aaa{
+#paragrafo-top{
     margin-left: 160px;
     color: aliceblue;
     font-size: 30px;
@@ -34,7 +34,7 @@
     margin-left: 250px;
     margin-top: 50px;
 }
-#jj{
+#image{
     width: 510px;
     height: 605px;
     left: 976px;
@@ -43,9 +43,20 @@
     border-radius: 30px;
 }
 
+
 #texto{
     margin-top: 70px;
     margin-left: 200px;
+}
+
+#titulo-img{
+    margin-right: 150px;
+    font-size: 35px;
+}
+
+#corpo-img{
+    font-size: 20px;
+
 }
 #formulario{
     background-color: #303030;
@@ -55,7 +66,7 @@
 }
 #titulo-form{
     font-size: 25px;
-    margin: 50px;
+    padding: 85px;
 }
 input{
     width: 300px;
@@ -76,4 +87,11 @@ button{
     border: 0px;
     font-weight: bolder;
     cursor: pointer;
+}
+button:hover{
+    background-color:  #e99c3e;
+    color: #ffffff;
+    transform: translateY(-7px);
+    box-shadow: 0px  15px 20px #8d581c70;
+    transition-duration: 0.5s;
 }
