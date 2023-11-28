@@ -23,11 +23,9 @@
 }
 #bannes{
     background-color: #F9F9F9;
-    padding-bottom: 130px;
+    padding: 130px;
     display: flex;
-    justify-content: space-around;
-    margin-top: 55px;
-    
+    justify-content: space-around;   
 }
 #imagem{
     display: flex;
